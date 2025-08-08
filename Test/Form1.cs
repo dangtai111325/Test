@@ -22,6 +22,8 @@ namespace Test
 
             MessageBox.Show("Hello World!");
 
+            MessageBox.Show("Hello World!");
+
         }
     }
 }
