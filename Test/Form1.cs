@@ -17,6 +17,9 @@ namespace Test
             InitializeComponent();
 
             MessageBox.Show("Hello World!");
+
+            MessageBox.Show("Hello World!");
+
         }
     }
 }
